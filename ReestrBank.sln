@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReestrBank", "ReestrBank\ReestrBank.csproj", "{52ED6E67-524E-40DC-958A-8F30F874549D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52ED6E67-524E-40DC-958A-8F30F874549D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52ED6E67-524E-40DC-958A-8F30F874549D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52ED6E67-524E-40DC-958A-8F30F874549D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52ED6E67-524E-40DC-958A-8F30F874549D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8FECF091-FD8E-4E2E-9748-3ED79ADA03C5}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\mshak_000\source\repos\ReestrBank\ReestrBank\bin\Debug\ReestrBank.exe.config
+C:\Users\mshak_000\source\repos\ReestrBank\ReestrBank\bin\Debug\ReestrBank.exe
+C:\Users\mshak_000\source\repos\ReestrBank\ReestrBank\bin\Debug\ReestrBank.pdb
+C:\Users\mshak_000\source\repos\ReestrBank\ReestrBank\obj\Debug\ReestrBank.csprojAssemblyReference.cache
+C:\Users\mshak_000\source\repos\ReestrBank\ReestrBank\obj\Debug\ReestrBank.Check.resources
+C:\Users\mshak_000\source\repos\ReestrBank\ReestrBank\obj\Debug\ReestrBank.Form1.resources
+C:\Users\mshak_000\source\repos\ReestrBank\ReestrBank\obj\Debug\ReestrBank.FormServer.resources
+C:\Users\mshak_000\source\repos\ReestrBank\ReestrBank\obj\Debug\ReestrBank.Properties.Resources.resources
+C:\Users\mshak_000\source\repos\ReestrBank\ReestrBank\obj\Debug\ReestrBank.СardСontrollerForm.resources
+C:\Users\mshak_000\source\repos\ReestrBank\ReestrBank\obj\Debug\ReestrBank.csproj.GenerateResource.cache
+C:\Users\mshak_000\source\repos\ReestrBank\ReestrBank\obj\Debug\ReestrBank.csproj.CoreCompileInputs.cache
+C:\Users\mshak_000\source\repos\ReestrBank\ReestrBank\obj\Debug\ReestrBank.exe
+C:\Users\mshak_000\source\repos\ReestrBank\ReestrBank\obj\Debug\ReestrBank.pdb
+C:\Users\mshak_000\source\repos\ReestrBank\ReestrBank\obj\Debug\ReestrBank.AddMoney.resources
+C:\Users\mshak_000\source\repos\ReestrBank\ReestrBank\obj\Debug\ReestrBank.withdrawMoney.resources
